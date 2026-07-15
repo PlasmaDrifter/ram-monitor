@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+  <kcfgfile name=""/>
+  <group name="General">
+    <entry name="ramColor" type="Color">
+      <default>#c715c0</default>
+    </entry>
+    <entry name="swapColor" type="Color">
+      <default>#257570</default>
+    </entry>
+    <entry name="gpuColor" type="Color">
+      <default>#FF6B6B</default>
+    </entry>
+    <entry name="trackColor" type="Color">
+      <default>#504646</default>
+    </entry>
+    <entry name="updateInterval" type="Int">
+      <default>2</default>
+    </entry>
+    <entry name="barLength" type="Int">
+      <default>50</default>
+    </entry>
+    <entry name="barThickness" type="Int">
+      <default>7</default>
+    </entry>
+    <entry name="displayOrientation" type="Int">
+      <default>1</default>
+    </entry>
+    <entry name="popupWidth" type="Int">
+      <default>250</default>
+    </entry>
+    <entry name="popupHeight" type="Int">
+      <default>150</default>
+    </entry>
+  </group>
+</kcfg>
