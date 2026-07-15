@@ -2,6 +2,9 @@
 
 A KDE Plasma panel widget displaying real-time RAM and swap/zram usage as horizontal bars.
 
+![ram-monitor](ram-monitor.png)
+![ram-monitor](desktop-1.png)
+
 ## Features
 
 - RAM usage bar (used / total)
