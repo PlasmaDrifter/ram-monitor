@@ -4,7 +4,7 @@ A KDE Plasma panel widget displaying real-time RAM and swap/zram usage as horizo
 
 ![ram-monitor](ram-monitor.png)
 ![ram-monitor](desktop-1.png)
-
+![ram-monitor](ram2.png)
 ## Features
 
 - RAM usage bar (used / total)
